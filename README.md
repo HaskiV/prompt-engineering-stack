@@ -49,7 +49,7 @@
 Этот ноутбук демонстрирует мои практические навыки в тестировании гипотез, сравнении подходов и дообучении моделей.
 
 *   **Задача:** Провести end-to-end пайплайн от подготовки данных до инференса для решения конкретной задачи.
-*   **Что внутри:** Примеры работы с OpenAI API, реализация Chain-of-Thought, Few-shot/Zero-shot техник, а также пайплайн для fine-tuning'а языковой модели.
+*   **Что внутри:** Примеры работы с OpenAI API, реализация Chain-of-Thought, Few-shot/Zero-shot техник, а также проектирование интеграций через OpenAI Function Calling.
 *   **[▶️ Открыть Colab Notebook](https://colab.research.google.com/drive/1sMdcrUJyul2W9GpBeLT_MTw8R03zyJDd)**
 
 ---
